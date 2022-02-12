@@ -28,7 +28,13 @@ Agricultural Engineer: I can see the disease of the plant by looking to its leaf
 Computer Vision Guy  : I can use computer vision to see the disease of the plant by looking to its leaf.
 
 I know this example is hella lame. but thats all what I can do best right now.
+## Table of Contents
 
+- [Where To Start](#start)
+- [Data Structure](#data)
+- [Resources](#resources)
+
+<a name="start">
 ## Where to start?
 
 we should start slow and little. Like a kids brain.
@@ -39,7 +45,14 @@ V1 -> I have a new laptop and my battery died. how can I fix it? => use a charge
 V2 -> My laptop is not opening how can iI fix it => it battery might be died, use a charger
 
 V3 -> My laptops battery dies so fast. How can I fix it? (proceeds to develop a new battery technology.. aaha just kidding..! but maybe one day ..? )
-
+   my tasks
+</a>
+<a name="data">
+## Data Structure
+{
+ne,nerden,nasil,nicin,hadi ya
+}
+</a>
 ## Resources
 - [BrainOS Paper (very similiar)](https://www.frontiersin.org/articles/10.3389/fncom.2020.00016/full)
 - [MIT Human Brain Courses](https://www.youtube.com/watch?v=ba-HMvDn_vU&t=310)
