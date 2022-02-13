@@ -4,7 +4,7 @@ I am brainstorming the idea of developing a data structure similiar to how we st
 Such as,
 ```Diff
 phone get charged if battery dies. 
-+ipad has to get charged if battery dies.
++ipad can also get charged if battery dies.
 ```
 ```Diff
 I eat bread if Im hungry
@@ -15,7 +15,7 @@ I eat bread if Im hungry
 So, I think information we now and producing research is nothing but linking the information together and catching the similiar "patterns".
 ```Diff
 There is a video-chat app for bussiness people.
-+ Why not also o do it for gamers.
++ Why not also do it for gamers.
 ```
 
 
@@ -35,6 +35,7 @@ I know this example is hella lame. but thats all what I can do best right now.
 - [Resources](#resources)
 
 <a name="start">
+   
 ## Where to start?
 
 we should start slow and little. Like a kids brain.
@@ -42,9 +43,9 @@ my turing test for now is,
 
 V1 -> I have a new laptop and my battery died. how can I fix it? => use a charger
 
-V2 -> My laptop is not opening how can iI fix it => it battery might be died, use a charger
+V2 -> My laptop is not opening how can i fix it => it battery might be died, use a charger
 
-V3 -> My laptops battery dies so fast. How can I fix it? (proceeds to develop a new battery technology.. aaha just kidding..! but maybe one day ..? )
+V3 -> My laptops battery dies so fast. How can I fix it? (proceeds to develop a new battery technology.. haha just kidding..! but maybe one day ..? )
    my tasks
 </a>
 <a name="data">
