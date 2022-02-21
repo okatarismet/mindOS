@@ -51,7 +51,7 @@ V3 -> My laptops battery dies so fast. How can I fix it? (proceeds to develop a 
 <a name="data">
 ## Data Structure
 {
-ne,nerden,nasil,nicin,hadi ya
+ne,nerden,nasil,nicin
 }
 </a>
 ## Resources
